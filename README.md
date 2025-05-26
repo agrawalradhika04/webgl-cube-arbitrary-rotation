@@ -2,6 +2,7 @@
 This project uses WebGL to rotate a cube about an arbitrary axis and fixed point, with the rotation logic implemented entirely in the vertex shader. Each face of the cube is distinctly colored to clearly visualize the 3D rotation effect. The rotation axis, fixed point, and speed are fixed in this implementation.
 
 Use this link to run the code in your browser:
+https://agrawalradhika04.github.io/webgl-cube-arbitrary-rotation/
 
 (Done as part of the course CS 390: Computer Graphics – HW 3)
 
